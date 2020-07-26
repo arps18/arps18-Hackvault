@@ -7,6 +7,9 @@ body {
     font-family: sans-serif;
 }
 
+
+/* ID */
+
 #navbar {
     position: sticky;
     top: 0;
