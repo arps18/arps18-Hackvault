@@ -41,6 +41,26 @@ body {
     font-weight: 600;
 }
 
+#fonts {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+}
+
+#fontu {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+}
+
+#fontm {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+}
+
+#fontl {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 800;
+}
+
 
 /* Banner */
 
